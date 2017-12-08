@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Example test run" duration-ms="9256" started-at="2017-12-08T06:24:39Z" finished-at="2017-12-08T06:24:48Z">
+    <groups>
+    </groups>
+    <test name="Simple Test" duration-ms="9256" started-at="2017-12-08T06:24:39Z" finished-at="2017-12-08T06:24:48Z">
+      <class name="com.google.test.GoogleHello">
+        <test-method status="PASS" signature="begin()[pri:0, instance:com.google.test.GoogleHello@3ffc5af1]" name="begin" duration-ms="11" started-at="2017-12-08T11:54:39Z" finished-at="2017-12-08T11:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- begin -->
+        <test-method status="PASS" signature="google()[pri:0, instance:com.google.test.GoogleHello@3ffc5af1]" name="google" duration-ms="9209" started-at="2017-12-08T11:54:39Z" finished-at="2017-12-08T11:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+      </class> <!-- com.google.test.GoogleHello -->
+    </test> <!-- Simple Test -->
+  </suite> <!-- Example test run -->
+</testng-results>
